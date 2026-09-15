@@ -35,7 +35,7 @@ Last Updated: {docdate}
 |Clearance Jobs
     |N/A
     |None
-    |hhttps://www.clearancejobs.com/jobs?loc=23&keywords=human+factors&sort_info=timestamp+desc[Search Jobs]
+    |https://www.clearancejobs.com/jobs?loc=23&keywords=human+factors&sort_info=timestamp+desc[Search Jobs]
     |    
 
 |===
