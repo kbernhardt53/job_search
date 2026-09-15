@@ -1,6 +1,6 @@
 = Job Search
 
-Last Updated: {docdate}
+Last Updated: {docdatetime}
 
 .Job Table
 [#job_table]
