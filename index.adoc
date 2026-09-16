@@ -11,25 +11,25 @@ Last Updated: {docdatetime}
 |L3 Harris
     |Bloomington, MN
     |None
-    |link:https://careers.l3harris.com/en/search-jobs[Search Jobs]
+    |link:https://careers.l3harris.com/en/search-jobs[Search Jobs^]
     |
 
 |NG
     |Plymouth, MN
     |None
-    |https://jobs.northropgrumman.com/careers?start=0&pid=1340074281869&sort_by=timestamp&filter_state=Minnesota[Search Jobs]
+    |https://jobs.northropgrumman.com/careers?start=0&pid=1340074281869&sort_by=timestamp&filter_state=Minnesota[Search Jobs^]
     |
 
 |BAE Systems
     |Maple Grove, MN
     |None
-    |https://jobs.baesystems.com/global/en/search-results?s=1[Search Jobs]
+    |https://jobs.baesystems.com/global/en/search-results?s=1[Search Jobs^]
     |
 
 |Honeywell
     |Golden Valley, MN
     |None
-    |https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs?location=Golden+Valley%2C+MN%2C+United+States&locationId=300000007408632&locationLevel=city&mode=location&radius=50&radiusUnit=MI[Search Jobs]
+    |https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs?location=Golden+Valley%2C+MN%2C+United+States&locationId=300000007408632&locationLevel=city&mode=location&radius=50&radiusUnit=MI[Search Jobs^]
     |
 
 |Clearance Jobs
